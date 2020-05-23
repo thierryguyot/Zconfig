@@ -1,0 +1,4 @@
+include README.md
+recursive-include Zconfig/templates *
+recursive-include Zconfig/translations *
+recursive-include Zconfig/static *
